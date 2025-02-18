@@ -5,5 +5,12 @@
 
 .main {
     margin-top: 20px;
-    background-image: ;src="gettyimages: -1413571350px 640ex 640jpg;";
+    background-color: red;
+    position: relative;
 }
+
+.box {
+    height: 100px;
+    width: 100px;
+}
+
