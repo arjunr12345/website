@@ -1,6 +1,6 @@
 * {
     padding: 0px;
-    margin: 50px;
+    margin: 0px;
 }
 body {
     background-image: url("gettyimages-1413571350-640x640.jpg");
@@ -8,6 +8,7 @@ body {
     background-position: right top;
     background-attachment: fixed;
     background-size: 5000px;
+    text-align: center;
   }
 .main {
     margin-top: 20px;
@@ -18,5 +19,16 @@ body {
 .box {
     height: 100px;
     width: 100px;
+    
+}
+
+footer {
+    background-color: crimson;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+button {
+    
 }
 
