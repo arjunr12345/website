@@ -25,10 +25,13 @@ body {
 footer {
     background-color: crimson;
     padding: 10px;
+    margin: auto;
     text-align: center;
     color: white;
+    position:fixed;
+    bottom:0;
   }
-button {
-    
+.button {
+    text-align: right;
 }
 
